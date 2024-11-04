@@ -2,7 +2,7 @@ def umar(a, b):
     return 
 
 def restar(a, b):
-    return 
+    return a - b
 
 def multiplicar(a, b):
     
